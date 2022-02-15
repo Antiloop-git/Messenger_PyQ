@@ -1,5 +1,4 @@
 from task_2 import host_range_ping
-from task_1 import AsyncPingHosts
 from tabulate import tabulate
 
 def host_range_ping_tab():
